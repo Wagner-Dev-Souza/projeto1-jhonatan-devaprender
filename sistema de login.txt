@@ -1,2 +1,3 @@
 insira deu login:
 insira sua senha:
+digite sua data de nascimento:
